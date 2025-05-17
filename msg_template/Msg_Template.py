@@ -851,7 +851,7 @@ def fin_books():
                         "type": "image",
                         "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/富爸爸，有錢有理.jpg",
                         "aspectMode": "fit",
-                        "aspectRatio": "320:213",
+                        "aspectRatio": "400:400",
                         "size": "full",
                         "backgroundColor": "#DDDDDD"
                     },
