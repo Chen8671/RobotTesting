@@ -37,9 +37,9 @@ from linebot.models import MessageEvent, TextMessage, TextSendMessage,ImageSendM
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('bP4+qoMkxVBTp/frpIaE4G1u4mvsPXWgyNIUJuIwdBqP8wHwZHTdEG64EYzgu0boK6ru/zS2n6ACBPp7XIUxlxSUHDrDfZmT2fQRHXhiLnonhByqaPilVH5ejhV2647pAZDg75xeH0mVIbN4Tkd6dQdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('7bf4becaf162f5e885ab92d0afa53630')
-my_user_id = 'U85ee49b7fb6269266e497110c4ac6e9c'
+line_bot_api = LineBotApi('UaDberGBCn13NeWqhPWN5a5lP15shXubHHY0ZYHfdiVag+5cZbosaIdsUTy49zyShu/3W0Z9Glf4DsvFSs92p1MQHz5MkjthDzmNZISi5ScLghwMi1ppvkFbLwe1RqNJLYbInKonpnquGIZgyl0InAdB04t89/1O/w1cDnyilFU=')
+handler = WebhookHandler('55629dbdfca5d4d893101fbd6554f06d')
+my_user_id = 'U29a491f651e103012d45b907a1facfcd'
 line_bot_api.push_message(my_user_id, TextSendMessage(text="start"))
 @app.route("/")
 def home():
