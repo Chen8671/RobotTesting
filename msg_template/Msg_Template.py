@@ -1095,7 +1095,7 @@ def stock_reply(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/走勢圖.jpg",  # 走勢圖圖示
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/走勢圖.jpg",  # 走勢圖圖示
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213",
@@ -1117,7 +1117,7 @@ def stock_reply(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/K線圖.jpg",  # K線圖圖示
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/K線圖.jpg",  # K線圖圖示
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213"
@@ -1138,7 +1138,7 @@ def stock_reply(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/法人.jpg",  # 法人圖示
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/法人.jpg",  # 法人圖示
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213"
@@ -1159,7 +1159,7 @@ def stock_reply(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/三大分析.jpg",  # 三大面向
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/三大分析.jpg",  # 三大面向
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213"
@@ -1180,7 +1180,7 @@ def stock_reply(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/新聞.jpg",  # 新聞
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/新聞.jpg",  # 新聞
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213"
@@ -1201,7 +1201,7 @@ def stock_reply(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/年收益率.jpg",  # 年收益率
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/年收益率.jpg",  # 年收益率
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213"
@@ -1297,7 +1297,7 @@ def stock_reply_other(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/三大分析.jpg",  # 三大面向
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/三大分析.jpg",  # 三大面向
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213"
@@ -1339,7 +1339,7 @@ def stock_reply_other(stockNumber):
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/90polarbear/stock112/main/img/年收益率.jpg",  # 年收益率
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/img/年收益率.jpg",  # 年收益率
                         "size": "full",
                         "aspectMode": "cover",
                         "aspectRatio": "320:213"
