@@ -849,7 +849,7 @@ def fin_books():
                     "size": "micro",
                     "hero": {
                         "type": "image",
-                        "url": "https://imgur.com/hUWBRhe.jpg",
+                        "url": "https://github.com/Chen8671/RobotTesting/blob/main/img/富爸爸，有錢有理.jpg",
                         "aspectMode": "fit",
                         "aspectRatio": "320:213",
                         "size": "full",
@@ -877,7 +877,7 @@ def fin_books():
                             },
                             {
                                 "type": "text",
-                                "text": "暢銷二十年的經典",
+                                "text": "25週年紀念版",
                                 "size": "xs",
                                 "color": "#8c8c8c",
                                 "margin": "md",
@@ -893,7 +893,7 @@ def fin_books():
                             "action": {
                             "type": "uri",
                             "label": "點我觀看",
-                            "uri": "https://www.books.com.tw/products/0010720289"
+                            "uri": "https://www.books.com.tw/products/0010935466?srsltid=AfmBOopxYbP_3iwuXuC-YuTXcsANBkWwn9UVCHXQzbWaFkX7Y2GigsA6"
                             }
                         },
                         {
